@@ -1,4 +1,4 @@
-# Special Thanks of NMaster
+# Special Thanks of NCleaner
 
 ## Translations
 
