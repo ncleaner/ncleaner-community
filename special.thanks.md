@@ -1,5 +1,21 @@
 # Special Thanks of NCleaner
 
-## Translations
+🌟 If you want to be included in the list, please send me email  and tell me the reason. 🌟
 
-## Testing
+## 💖 Donation
+
+- Rohit Patil
+- Tomi Vontszemu
+- A Peck 
+- ...
+
+
+
+## 🚩 Translations
+
+
+
+## 💦 Testing & Report issues
+
+- Aday Sobas Pérez
+
