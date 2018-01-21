@@ -18,4 +18,5 @@
 ## 💦 Testing & Report issues
 
 - Aday Sobas Pérez
+- ...
 
